@@ -1,6 +1,6 @@
 mysql_host='127.0.0.1'
 mysql_user='root'
-mysql_passwd='root'
+mysql_passwd='Tianyuan.12'
 mysql_charset='utf8'
 
 
